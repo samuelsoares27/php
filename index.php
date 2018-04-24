@@ -1,7 +1,5 @@
 <?php
 
-
-   echo "Ola mundão";
-   echo "Ola mano brow".
+   echo "Ola mundo".
 
 ?>
